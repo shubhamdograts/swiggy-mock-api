@@ -1,0 +1,54 @@
+{
+  "restaurantId": "108",
+  "name": "Biryani Blues",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Biryani",
+      "items": [
+        {
+          "id": "i801",
+          "name": "Chicken Biryani",
+          "price": 32900,
+          "veg": false,
+          "description": "Fragrant chicken biryani",
+          "image": "https://picsum.photos/200/200?chickenbiryani",
+          "inStock": true
+        },
+        {
+          "id": "i802",
+          "name": "Mutton Biryani",
+          "price": 39900,
+          "veg": false,
+          "description": "Tender mutton biryani",
+          "image": "https://picsum.photos/200/200?muttonbiryani",
+          "inStock": true
+        },
+        {
+          "id": "i803",
+          "name": "Veg Biryani",
+          "price": 27900,
+          "veg": true,
+          "description": "Vegetable biryani",
+          "image": "https://picsum.photos/200/200?vegbiryani",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Kebabs",
+      "items": [
+        {
+          "id": "i804",
+          "name": "Seekh Kebab",
+          "price": 24900,
+          "veg": false,
+          "description": "Minced meat kebabs",
+          "image": "https://picsum.photos/200/200?seekhkebab",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "restaurantId": "107",
+  "name": "Haldiram's",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Snacks",
+      "items": [
+        {
+          "id": "i701",
+          "name": "Samosa",
+          "price": 4900,
+          "veg": true,
+          "description": "Crispy samosa",
+          "image": "https://picsum.photos/200/200?samosa",
+          "inStock": true
+        },
+        {
+          "id": "i702",
+          "name": "Kachori",
+          "price": 5900,
+          "veg": true,
+          "description": "Stuffed kachori",
+          "image": "https://picsum.photos/200/200?kachori",
+          "inStock": true
+        },
+        {
+          "id": "i703",
+          "name": "Pav Bhaji",
+          "price": 12900,
+          "veg": true,
+          "description": "Spicy vegetable curry",
+          "image": "https://picsum.photos/200/200?pavbhaji",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Sweets",
+      "items": [
+        {
+          "id": "i704",
+          "name": "Gulab Jamun",
+          "price": 7900,
+          "veg": true,
+          "description": "Sweet dumplings in syrup",
+          "image": "https://picsum.photos/200/200?gulabjamun",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

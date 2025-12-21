@@ -1,0 +1,54 @@
+{
+  "restaurantId": "117",
+  "name": "Starbucks",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Coffee",
+      "items": [
+        {
+          "id": "i1701",
+          "name": "Caffe Latte",
+          "price": 24900,
+          "veg": true,
+          "description": "Espresso with milk",
+          "image": "https://picsum.photos/200/200?sbuxlatte",
+          "inStock": true
+        },
+        {
+          "id": "i1702",
+          "name": "Caramel Macchiato",
+          "price": 29900,
+          "veg": true,
+          "description": "Vanilla and caramel latte",
+          "image": "https://picsum.photos/200/200?caramelmac",
+          "inStock": true
+        },
+        {
+          "id": "i1703",
+          "name": "Frappuccino",
+          "price": 32900,
+          "veg": true,
+          "description": "Blended iced coffee",
+          "image": "https://picsum.photos/200/200?frappuccino",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Food",
+      "items": [
+        {
+          "id": "i1704",
+          "name": "Blueberry Muffin",
+          "price": 17900,
+          "veg": true,
+          "description": "Fresh blueberry muffin",
+          "image": "https://picsum.photos/200/200?blueberrymuffin",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

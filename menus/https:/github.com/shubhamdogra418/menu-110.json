@@ -1,0 +1,54 @@
+{
+  "restaurantId": "110",
+  "name": "Faasos",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Wraps",
+      "items": [
+        {
+          "id": "i1001",
+          "name": "Chicken Tikka Wrap",
+          "price": 16900,
+          "veg": false,
+          "description": "Spicy chicken wrap",
+          "image": "https://picsum.photos/200/200?chickenwrap",
+          "inStock": true
+        },
+        {
+          "id": "i1002",
+          "name": "Paneer Wrap",
+          "price": 14900,
+          "veg": true,
+          "description": "Paneer tikka wrap",
+          "image": "https://picsum.photos/200/200?paneerwrap",
+          "inStock": true
+        },
+        {
+          "id": "i1003",
+          "name": "Egg Wrap",
+          "price": 12900,
+          "veg": false,
+          "description": "Egg bhurji wrap",
+          "image": "https://picsum.photos/200/200?eggwrap",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Biryanis",
+      "items": [
+        {
+          "id": "i1004",
+          "name": "Boneless Chicken Biryani",
+          "price": 21900,
+          "veg": false,
+          "description": "Chicken biryani",
+          "image": "https://picsum.photos/200/200?faasosbiryani",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

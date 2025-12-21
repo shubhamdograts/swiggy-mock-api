@@ -1,0 +1,54 @@
+{
+  "restaurantId": "127",
+  "name": "Chinese Wok",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Chinese",
+      "items": [
+        {
+          "id": "i2701",
+          "name": "Veg Hakka Noodles",
+          "price": 17900,
+          "veg": true,
+          "description": "Stir-fried noodles",
+          "image": "https://picsum.photos/200/200?vegnoodles",
+          "inStock": true
+        },
+        {
+          "id": "i2702",
+          "name": "Chicken Schezwan Noodles",
+          "price": 21900,
+          "veg": false,
+          "description": "Spicy schezwan noodles",
+          "image": "https://picsum.photos/200/200?schezwan",
+          "inStock": true
+        },
+        {
+          "id": "i2703",
+          "name": "Veg Fried Rice",
+          "price": 18900,
+          "veg": true,
+          "description": "Stir-fried rice",
+          "image": "https://picsum.photos/200/200?vegrice",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Starters",
+      "items": [
+        {
+          "id": "i2704",
+          "name": "Chicken Lollipop",
+          "price": 22900,
+          "veg": false,
+          "description": "Crispy chicken wings",
+          "image": "https://picsum.photos/200/200?lollipop",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

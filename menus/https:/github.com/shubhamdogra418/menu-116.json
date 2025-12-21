@@ -1,0 +1,54 @@
+{
+  "restaurantId": "116",
+  "name": "Cafe Coffee Day",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Coffee",
+      "items": [
+        {
+          "id": "i1601",
+          "name": "Cappuccino",
+          "price": 14900,
+          "veg": true,
+          "description": "Classic cappuccino",
+          "image": "https://picsum.photos/200/200?cappuccino",
+          "inStock": true
+        },
+        {
+          "id": "i1602",
+          "name": "Cold Coffee",
+          "price": 16900,
+          "veg": true,
+          "description": "Iced cold coffee",
+          "image": "https://picsum.photos/200/200?coldcoffee",
+          "inStock": true
+        },
+        {
+          "id": "i1603",
+          "name": "Latte",
+          "price": 17900,
+          "veg": true,
+          "description": "Creamy latte",
+          "image": "https://picsum.photos/200/200?latte",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Snacks",
+      "items": [
+        {
+          "id": "i1604",
+          "name": "Chocolate Cake",
+          "price": 12900,
+          "veg": true,
+          "description": "Rich chocolate cake",
+          "image": "https://picsum.photos/200/200?chococake",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

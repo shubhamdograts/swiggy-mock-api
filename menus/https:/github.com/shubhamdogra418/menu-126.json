@@ -1,0 +1,54 @@
+{
+  "restaurantId": "126",
+  "name": "The Belgian Waffle Co.",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Waffles",
+      "items": [
+        {
+          "id": "i2601",
+          "name": "Chocolate Waffle",
+          "price": 16900,
+          "veg": true,
+          "description": "Waffle with chocolate sauce",
+          "image": "https://picsum.photos/200/200?chocowaffle",
+          "inStock": true
+        },
+        {
+          "id": "i2602",
+          "name": "Nutella Waffle",
+          "price": 19900,
+          "veg": true,
+          "description": "Waffle with nutella",
+          "image": "https://picsum.photos/200/200?nutellawaffle",
+          "inStock": true
+        },
+        {
+          "id": "i2603",
+          "name": "Red Velvet Waffle",
+          "price": 21900,
+          "veg": true,
+          "description": "Red velvet waffle with cream cheese",
+          "image": "https://picsum.photos/200/200?redvelvet",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Thick Shakes",
+      "items": [
+        {
+          "id": "i2604",
+          "name": "Chocolate Thick Shake",
+          "price": 14900,
+          "veg": true,
+          "description": "Rich chocolate shake",
+          "image": "https://picsum.photos/200/200?chocoshake",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

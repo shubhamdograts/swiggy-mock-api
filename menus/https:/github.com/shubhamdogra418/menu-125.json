@@ -1,0 +1,54 @@
+{
+  "restaurantId": "125",
+  "name": "Burger Singh",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Burgers",
+      "items": [
+        {
+          "id": "i2501",
+          "name": "United States of India",
+          "price": 16900,
+          "veg": false,
+          "description": "Spicy chicken burger",
+          "image": "https://picsum.photos/200/200?usiburger",
+          "inStock": true
+        },
+        {
+          "id": "i2502",
+          "name": "Amritsari Paneer",
+          "price": 14900,
+          "veg": true,
+          "description": "Amritsari paneer burger",
+          "image": "https://picsum.photos/200/200?amritsaripaneer",
+          "inStock": true
+        },
+        {
+          "id": "i2503",
+          "name": "Singh Sizzler",
+          "price": 17900,
+          "veg": false,
+          "description": "Tandoori chicken burger",
+          "image": "https://picsum.photos/200/200?sizzler",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Sides",
+      "items": [
+        {
+          "id": "i2504",
+          "name": "Peri Peri Fries",
+          "price": 9900,
+          "veg": true,
+          "description": "Spicy peri peri fries",
+          "image": "https://picsum.photos/200/200?pereperifries",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

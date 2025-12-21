@@ -1,0 +1,54 @@
+{
+  "restaurantId": "105",
+  "name": "KFC",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Chicken",
+      "items": [
+        {
+          "id": "i501",
+          "name": "Hot & Crispy Chicken",
+          "price": 17900,
+          "veg": false,
+          "description": "Crispy fried chicken pieces",
+          "image": "https://picsum.photos/200/200?kfc1",
+          "inStock": true
+        },
+        {
+          "id": "i502",
+          "name": "Zinger Burger",
+          "price": 19900,
+          "veg": false,
+          "description": "Spicy chicken burger",
+          "image": "https://picsum.photos/200/200?kfc2",
+          "inStock": true
+        },
+        {
+          "id": "i503",
+          "name": "Popcorn Chicken",
+          "price": 14900,
+          "veg": false,
+          "description": "Bite-sized chicken pieces",
+          "image": "https://picsum.photos/200/200?kfc3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Buckets",
+      "items": [
+        {
+          "id": "i504",
+          "name": "Bucket for Two",
+          "price": 59900,
+          "veg": false,
+          "description": "Chicken bucket with sides",
+          "image": "https://picsum.photos/200/200?kfcbucket",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

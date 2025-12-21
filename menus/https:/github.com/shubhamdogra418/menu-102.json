@@ -1,0 +1,66 @@
+{
+  "restaurantId": "102",
+  "name": "Pizza Hut",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Pizzas",
+      "items": [
+        {
+          "id": "i201",
+          "name": "Veggie Supreme",
+          "price": 24900,
+          "veg": true,
+          "description": "Loaded veggie pizza",
+          "image": "https://picsum.photos/200/200?pizza3",
+          "inStock": true
+        },
+        {
+          "id": "i202",
+          "name": "Chicken Tikka Pizza",
+          "price": 32900,
+          "veg": false,
+          "description": "Spicy chicken pizza",
+          "image": "https://picsum.photos/200/200?pizza4",
+          "inStock": true
+        },
+        {
+          "id": "i203",
+          "name": "Pepperoni Feast",
+          "price": 35900,
+          "veg": false,
+          "description": "Classic pepperoni pizza",
+          "image": "https://picsum.photos/200/200?pizza5",
+          "inStock": false
+        },
+        {
+          "id": "i204",
+          "name": "Cheese Burst",
+          "price": 27900,
+          "veg": true,
+          "description": "Extra cheesy pizza",
+          "image": "https://picsum.photos/200/200?pizza6",
+          "inStock": true
+        },
+        {
+          "id": "i205",
+          "name": "BBQ Chicken Pizza",
+          "price": 33900,
+          "veg": false,
+          "description": "Tangy BBQ chicken pizza",
+          "image": "https://picsum.photos/200/200?pizza7",
+          "inStock": true
+        },
+        {
+          "id": "i206",
+          "name": "Mushroom Delight",
+          "price": 25900,
+          "veg": true,
+          "description": "Mushroom loaded pizza",
+          "image": "https://picsum.photos/200/200?pizza8",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

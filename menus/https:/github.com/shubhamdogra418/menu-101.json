@@ -1,0 +1,30 @@
+{
+  "restaurantId": "101",
+  "name": "Domino's Pizza",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Recommended",
+      "items": [
+        {
+          "id": "i101",
+          "name": "Margherita",
+          "price": 19900,
+          "veg": true,
+          "description": "Classic cheese pizza",
+          "image": "https://picsum.photos/200/200?pizza1",
+          "inStock": true
+        },
+        {
+          "id": "i102",
+          "name": "Farmhouse",
+          "price": 29900,
+          "veg": true,
+          "description": "Loaded with veggies",
+          "image": "https://picsum.photos/200/200?pizza2",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

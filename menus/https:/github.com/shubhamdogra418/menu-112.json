@@ -1,0 +1,54 @@
+{
+  "restaurantId": "112",
+  "name": "The Good Bowl",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Bowls",
+      "items": [
+        {
+          "id": "i1201",
+          "name": "Chicken Rice Bowl",
+          "price": 18900,
+          "veg": false,
+          "description": "Grilled chicken with rice",
+          "image": "https://picsum.photos/200/200?chickenbowl",
+          "inStock": true
+        },
+        {
+          "id": "i1202",
+          "name": "Paneer Rice Bowl",
+          "price": 16900,
+          "veg": true,
+          "description": "Paneer with rice",
+          "image": "https://picsum.photos/200/200?paneerbowl",
+          "inStock": true
+        },
+        {
+          "id": "i1203",
+          "name": "Veg Quinoa Bowl",
+          "price": 19900,
+          "veg": true,
+          "description": "Healthy quinoa bowl",
+          "image": "https://picsum.photos/200/200?quinoabowl",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Add-ons",
+      "items": [
+        {
+          "id": "i1204",
+          "name": "Grilled Chicken",
+          "price": 9900,
+          "veg": false,
+          "description": "Extra grilled chicken",
+          "image": "https://picsum.photos/200/200?extrachicken",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

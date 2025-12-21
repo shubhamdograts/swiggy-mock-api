@@ -1,0 +1,54 @@
+{
+  "restaurantId": "114",
+  "name": "Wow! Momo",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Momos",
+      "items": [
+        {
+          "id": "i1401",
+          "name": "Veg Steamed Momos",
+          "price": 13900,
+          "veg": true,
+          "description": "Steamed veg momos",
+          "image": "https://picsum.photos/200/200?vegmomos",
+          "inStock": true
+        },
+        {
+          "id": "i1402",
+          "name": "Chicken Momos",
+          "price": 16900,
+          "veg": false,
+          "description": "Steamed chicken momos",
+          "image": "https://picsum.photos/200/200?chickenmomos",
+          "inStock": true
+        },
+        {
+          "id": "i1403",
+          "name": "Fried Momos",
+          "price": 17900,
+          "veg": false,
+          "description": "Crispy fried momos",
+          "image": "https://picsum.photos/200/200?friedmomos",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Dim Sum",
+      "items": [
+        {
+          "id": "i1404",
+          "name": "Chicken Dim Sum",
+          "price": 19900,
+          "veg": false,
+          "description": "Chicken dim sum",
+          "image": "https://picsum.photos/200/200?dimsum",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

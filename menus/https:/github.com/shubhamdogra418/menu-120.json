@@ -1,0 +1,54 @@
+{
+  "restaurantId": "120",
+  "name": "Punjabi Angithi",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "North Indian",
+      "items": [
+        {
+          "id": "i2001",
+          "name": "Paneer Butter Masala",
+          "price": 28900,
+          "veg": true,
+          "description": "Creamy paneer curry",
+          "image": "https://picsum.photos/200/200?paneerbuttermasala",
+          "inStock": true
+        },
+        {
+          "id": "i2002",
+          "name": "Dal Makhani",
+          "price": 24900,
+          "veg": true,
+          "description": "Creamy black lentils",
+          "image": "https://picsum.photos/200/200?dalmakhani",
+          "inStock": true
+        },
+        {
+          "id": "i2003",
+          "name": "Butter Chicken",
+          "price": 32900,
+          "veg": false,
+          "description": "Creamy chicken curry",
+          "image": "https://picsum.photos/200/200?butterchicken2",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Breads",
+      "items": [
+        {
+          "id": "i2004",
+          "name": "Butter Naan",
+          "price": 5900,
+          "veg": true,
+          "description": "Buttered naan bread",
+          "image": "https://picsum.photos/200/200?butternaan",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

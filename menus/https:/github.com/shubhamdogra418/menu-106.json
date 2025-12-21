@@ -1,0 +1,54 @@
+{
+  "restaurantId": "106",
+  "name": "Subway",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Subs",
+      "items": [
+        {
+          "id": "i601",
+          "name": "Veggie Delite",
+          "price": 13900,
+          "veg": true,
+          "description": "Fresh vegetable sub",
+          "image": "https://picsum.photos/200/200?subway1",
+          "inStock": true
+        },
+        {
+          "id": "i602",
+          "name": "Chicken Teriyaki",
+          "price": 18900,
+          "veg": false,
+          "description": "Teriyaki chicken sub",
+          "image": "https://picsum.photos/200/200?subway2",
+          "inStock": true
+        },
+        {
+          "id": "i603",
+          "name": "Paneer Tikka",
+          "price": 16900,
+          "veg": true,
+          "description": "Spicy paneer sub",
+          "image": "https://picsum.photos/200/200?subway3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Salads",
+      "items": [
+        {
+          "id": "i604",
+          "name": "Chicken Salad",
+          "price": 19900,
+          "veg": false,
+          "description": "Fresh chicken salad",
+          "image": "https://picsum.photos/200/200?salad1",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

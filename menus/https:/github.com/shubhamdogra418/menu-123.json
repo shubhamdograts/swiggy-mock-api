@@ -1,0 +1,54 @@
+{
+  "restaurantId": "123",
+  "name": "Chai Point",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Beverages",
+      "items": [
+        {
+          "id": "i2301",
+          "name": "Masala Chai",
+          "price": 6900,
+          "veg": true,
+          "description": "Spiced Indian tea",
+          "image": "https://picsum.photos/200/200?masalachai",
+          "inStock": true
+        },
+        {
+          "id": "i2302",
+          "name": "Ginger Chai",
+          "price": 7900,
+          "veg": true,
+          "description": "Ginger infused tea",
+          "image": "https://picsum.photos/200/200?gingerchai",
+          "inStock": true
+        },
+        {
+          "id": "i2303",
+          "name": "Cold Coffee",
+          "price": 12900,
+          "veg": true,
+          "description": "Iced coffee",
+          "image": "https://picsum.photos/200/200?chaipointcoldcoffee",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Snacks",
+      "items": [
+        {
+          "id": "i2304",
+          "name": "Veg Sandwich",
+          "price": 9900,
+          "veg": true,
+          "description": "Grilled veg sandwich",
+          "image": "https://picsum.photos/200/200?vegsandwich",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

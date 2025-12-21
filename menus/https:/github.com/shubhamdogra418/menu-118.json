@@ -1,0 +1,54 @@
+{
+  "restaurantId": "118",
+  "name": "Natural Ice Cream",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Ice Cream",
+      "items": [
+        {
+          "id": "i1801",
+          "name": "Tender Coconut",
+          "price": 12900,
+          "veg": true,
+          "description": "Fresh coconut ice cream",
+          "image": "https://picsum.photos/200/200?coconuticecream",
+          "inStock": true
+        },
+        {
+          "id": "i1802",
+          "name": "Mango",
+          "price": 11900,
+          "veg": true,
+          "description": "Alphonso mango ice cream",
+          "image": "https://picsum.photos/200/200?mangoicecream",
+          "inStock": true
+        },
+        {
+          "id": "i1803",
+          "name": "Sitaphal",
+          "price": 13900,
+          "veg": true,
+          "description": "Custard apple ice cream",
+          "image": "https://picsum.photos/200/200?sitaphal",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Sundaes",
+      "items": [
+        {
+          "id": "i1804",
+          "name": "Chocolate Sundae",
+          "price": 16900,
+          "veg": true,
+          "description": "Chocolate ice cream sundae",
+          "image": "https://picsum.photos/200/200?chocosundae",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

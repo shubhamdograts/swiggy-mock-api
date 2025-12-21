@@ -1,0 +1,54 @@
+{
+  "restaurantId": "124",
+  "name": "Rolls Mania",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Rolls",
+      "items": [
+        {
+          "id": "i2401",
+          "name": "Chicken Tikka Roll",
+          "price": 14900,
+          "veg": false,
+          "description": "Chicken tikka in roll",
+          "image": "https://picsum.photos/200/200?chickenroll",
+          "inStock": true
+        },
+        {
+          "id": "i2402",
+          "name": "Paneer Roll",
+          "price": 12900,
+          "veg": true,
+          "description": "Paneer tikka roll",
+          "image": "https://picsum.photos/200/200?paneerroll",
+          "inStock": true
+        },
+        {
+          "id": "i2403",
+          "name": "Egg Roll",
+          "price": 9900,
+          "veg": false,
+          "description": "Egg bhurji roll",
+          "image": "https://picsum.photos/200/200?eggroll",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Combos",
+      "items": [
+        {
+          "id": "i2404",
+          "name": "Roll + Fries Combo",
+          "price": 19900,
+          "veg": false,
+          "description": "Any roll with fries",
+          "image": "https://picsum.photos/200/200?rollcombo",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "restaurantId": "119",
+  "name": "Baskin Robbins",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Ice Cream",
+      "items": [
+        {
+          "id": "i1901",
+          "name": "Chocolate Fudge",
+          "price": 14900,
+          "veg": true,
+          "description": "Rich chocolate ice cream",
+          "image": "https://picsum.photos/200/200?chocofudge",
+          "inStock": true
+        },
+        {
+          "id": "i1902",
+          "name": "Strawberry",
+          "price": 13900,
+          "veg": true,
+          "description": "Fresh strawberry ice cream",
+          "image": "https://picsum.photos/200/200?strawberry",
+          "inStock": true
+        },
+        {
+          "id": "i1903",
+          "name": "Mint Chocolate Chip",
+          "price": 15900,
+          "veg": true,
+          "description": "Mint ice cream with chocolate chips",
+          "image": "https://picsum.photos/200/200?mintchoco",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Sundaes",
+      "items": [
+        {
+          "id": "i1904",
+          "name": "Brownie Sundae",
+          "price": 21900,
+          "veg": true,
+          "description": "Brownie with ice cream",
+          "image": "https://picsum.photos/200/200?browniesundae",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

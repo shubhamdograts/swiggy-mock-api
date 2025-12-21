@@ -1,0 +1,54 @@
+{
+  "restaurantId": "130",
+  "name": "Pizza Express",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Pizzas",
+      "items": [
+        {
+          "id": "i3001",
+          "name": "Margherita Classica",
+          "price": 29900,
+          "veg": true,
+          "description": "Classic Italian margherita",
+          "image": "https://picsum.photos/200/200?margheritaclassica",
+          "inStock": true
+        },
+        {
+          "id": "i3002",
+          "name": "American Hot",
+          "price": 34900,
+          "veg": false,
+          "description": "Spicy pepperoni pizza",
+          "image": "https://picsum.photos/200/200?americanhot",
+          "inStock": true
+        },
+        {
+          "id": "i3003",
+          "name": "Four Seasons",
+          "price": 37900,
+          "veg": false,
+          "description": "Pizza with 4 toppings",
+          "image": "https://picsum.photos/200/200?fourseasons",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Pasta",
+      "items": [
+        {
+          "id": "i3004",
+          "name": "Penne Arrabiata",
+          "price": 26900,
+          "veg": true,
+          "description": "Spicy tomato pasta",
+          "image": "https://picsum.photos/200/200?arrabiata",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

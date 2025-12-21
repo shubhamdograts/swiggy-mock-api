@@ -1,0 +1,54 @@
+{
+  "restaurantId": "104",
+  "name": "McDonald's",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Burgers",
+      "items": [
+        {
+          "id": "i401",
+          "name": "Big Mac",
+          "price": 19900,
+          "veg": false,
+          "description": "Iconic burger with special sauce",
+          "image": "https://picsum.photos/200/200?mcdonalds1",
+          "inStock": true
+        },
+        {
+          "id": "i402",
+          "name": "McAloo Tikki",
+          "price": 5900,
+          "veg": true,
+          "description": "Spicy potato patty burger",
+          "image": "https://picsum.photos/200/200?mcdonalds2",
+          "inStock": true
+        },
+        {
+          "id": "i403",
+          "name": "McChicken",
+          "price": 14900,
+          "veg": false,
+          "description": "Chicken burger",
+          "image": "https://picsum.photos/200/200?mcdonalds3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Happy Meals",
+      "items": [
+        {
+          "id": "i404",
+          "name": "Chicken Happy Meal",
+          "price": 24900,
+          "veg": false,
+          "description": "Kids meal with toy",
+          "image": "https://picsum.photos/200/200?happymeal1",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

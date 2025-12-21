@@ -1,0 +1,54 @@
+{
+  "restaurantId": "111",
+  "name": "LunchBox",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Thalis",
+      "items": [
+        {
+          "id": "i1101",
+          "name": "Dal Tadka Thali",
+          "price": 17900,
+          "veg": true,
+          "description": "Complete dal thali",
+          "image": "https://picsum.photos/200/200?dalthali",
+          "inStock": true
+        },
+        {
+          "id": "i1102",
+          "name": "Paneer Butter Masala Thali",
+          "price": 21900,
+          "veg": true,
+          "description": "Paneer thali",
+          "image": "https://picsum.photos/200/200?paneerthali",
+          "inStock": true
+        },
+        {
+          "id": "i1103",
+          "name": "Chicken Curry Thali",
+          "price": 24900,
+          "veg": false,
+          "description": "Chicken thali",
+          "image": "https://picsum.photos/200/200?chickenthali",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Biryani",
+      "items": [
+        {
+          "id": "i1104",
+          "name": "Dum Biryani",
+          "price": 22900,
+          "veg": false,
+          "description": "Chicken biryani in lunch box",
+          "image": "https://picsum.photos/200/200?lunchboxbiryani",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "restaurantId": "129",
+  "name": "Cafe Delhi Heights",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Continental",
+      "items": [
+        {
+          "id": "i2901",
+          "name": "Lasagna",
+          "price": 34900,
+          "veg": false,
+          "description": "Baked lasagna with meat",
+          "image": "https://picsum.photos/200/200?lasagna",
+          "inStock": true
+        },
+        {
+          "id": "i2902",
+          "name": "Quesadilla",
+          "price": 28900,
+          "veg": true,
+          "description": "Mexican quesadilla",
+          "image": "https://picsum.photos/200/200?quesadilla",
+          "inStock": true
+        },
+        {
+          "id": "i2903",
+          "name": "Fish & Chips",
+          "price": 39900,
+          "veg": false,
+          "description": "Battered fish with fries",
+          "image": "https://picsum.photos/200/200?fishnchips",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Desserts",
+      "items": [
+        {
+          "id": "i2904",
+          "name": "Tiramisu",
+          "price": 24900,
+          "veg": true,
+          "description": "Italian coffee dessert",
+          "image": "https://picsum.photos/200/200?tiramisu",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

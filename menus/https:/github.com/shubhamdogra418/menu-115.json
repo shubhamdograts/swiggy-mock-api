@@ -1,0 +1,54 @@
+{
+  "restaurantId": "115",
+  "name": "Mainland China",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Chinese",
+      "items": [
+        {
+          "id": "i1501",
+          "name": "Veg Manchurian",
+          "price": 24900,
+          "veg": true,
+          "description": "Spicy veg balls in sauce",
+          "image": "https://picsum.photos/200/200?manchurian",
+          "inStock": true
+        },
+        {
+          "id": "i1502",
+          "name": "Chicken Fried Rice",
+          "price": 27900,
+          "veg": false,
+          "description": "Stir-fried rice with chicken",
+          "image": "https://picsum.photos/200/200?chickenrice",
+          "inStock": true
+        },
+        {
+          "id": "i1503",
+          "name": "Hakka Noodles",
+          "price": 22900,
+          "veg": true,
+          "description": "Stir-fried noodles",
+          "image": "https://picsum.photos/200/200?hakkanoodles",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Soups",
+      "items": [
+        {
+          "id": "i1504",
+          "name": "Hot & Sour Soup",
+          "price": 14900,
+          "veg": true,
+          "description": "Spicy tangy soup",
+          "image": "https://picsum.photos/200/200?hotsour",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

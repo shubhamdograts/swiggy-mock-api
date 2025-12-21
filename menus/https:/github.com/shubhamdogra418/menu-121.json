@@ -1,0 +1,54 @@
+{
+  "restaurantId": "121",
+  "name": "Paradise Biryani",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Biryani",
+      "items": [
+        {
+          "id": "i2101",
+          "name": "Hyderabadi Chicken Biryani",
+          "price": 34900,
+          "veg": false,
+          "description": "Authentic Hyderabadi biryani",
+          "image": "https://picsum.photos/200/200?hyderabadi",
+          "inStock": true
+        },
+        {
+          "id": "i2102",
+          "name": "Mutton Biryani",
+          "price": 42900,
+          "veg": false,
+          "description": "Tender mutton biryani",
+          "image": "https://picsum.photos/200/200?paradisemutton",
+          "inStock": true
+        },
+        {
+          "id": "i2103",
+          "name": "Veg Biryani",
+          "price": 28900,
+          "veg": true,
+          "description": "Vegetable biryani",
+          "image": "https://picsum.photos/200/200?paradiseveg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Starters",
+      "items": [
+        {
+          "id": "i2104",
+          "name": "Chicken 65",
+          "price": 26900,
+          "veg": false,
+          "description": "Spicy fried chicken",
+          "image": "https://picsum.photos/200/200?chicken65",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

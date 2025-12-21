@@ -1,0 +1,54 @@
+{
+  "restaurantId": "103",
+  "name": "Burger King",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Burgers",
+      "items": [
+        {
+          "id": "i301",
+          "name": "Whopper",
+          "price": 18900,
+          "veg": false,
+          "description": "Flame-grilled beef burger",
+          "image": "https://picsum.photos/200/200?burger1",
+          "inStock": true
+        },
+        {
+          "id": "i302",
+          "name": "Veg Whopper",
+          "price": 15900,
+          "veg": true,
+          "description": "Flame-grilled veggie burger",
+          "image": "https://picsum.photos/200/200?burger2",
+          "inStock": true
+        },
+        {
+          "id": "i303",
+          "name": "Chicken Royale",
+          "price": 17900,
+          "veg": false,
+          "description": "Crispy chicken burger",
+          "image": "https://picsum.photos/200/200?burger3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Sides",
+      "items": [
+        {
+          "id": "i304",
+          "name": "French Fries",
+          "price": 9900,
+          "veg": true,
+          "description": "Crispy fries",
+          "image": "https://picsum.photos/200/200?fries1",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "restaurantId": "128",
+  "name": "FreshMenu",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Continental",
+      "items": [
+        {
+          "id": "i2801",
+          "name": "Grilled Chicken Steak",
+          "price": 34900,
+          "veg": false,
+          "description": "Grilled chicken with sides",
+          "image": "https://picsum.photos/200/200?chickensteak",
+          "inStock": true
+        },
+        {
+          "id": "i2802",
+          "name": "Pasta Alfredo",
+          "price": 28900,
+          "veg": true,
+          "description": "Creamy white sauce pasta",
+          "image": "https://picsum.photos/200/200?alfredo",
+          "inStock": true
+        },
+        {
+          "id": "i2803",
+          "name": "Risotto",
+          "price": 31900,
+          "veg": true,
+          "description": "Creamy Italian rice",
+          "image": "https://picsum.photos/200/200?risotto",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Indian",
+      "items": [
+        {
+          "id": "i2804",
+          "name": "Chicken Tikka Masala",
+          "price": 32900,
+          "veg": false,
+          "description": "Chicken in tikka masala sauce",
+          "image": "https://picsum.photos/200/200?tikkamasala",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

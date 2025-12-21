@@ -1,0 +1,54 @@
+{
+  "restaurantId": "113",
+  "name": "Barbeque Nation",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "BBQ",
+      "items": [
+        {
+          "id": "i1301",
+          "name": "Tandoori Chicken",
+          "price": 39900,
+          "veg": false,
+          "description": "Grilled chicken",
+          "image": "https://picsum.photos/200/200?tandoorichicken",
+          "inStock": true
+        },
+        {
+          "id": "i1302",
+          "name": "Paneer Tikka",
+          "price": 34900,
+          "veg": true,
+          "description": "Grilled paneer",
+          "image": "https://picsum.photos/200/200?paneertikka",
+          "inStock": true
+        },
+        {
+          "id": "i1303",
+          "name": "Seekh Kebab",
+          "price": 42900,
+          "veg": false,
+          "description": "Minced meat kebabs",
+          "image": "https://picsum.photos/200/200?seekh",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Main Course",
+      "items": [
+        {
+          "id": "i1304",
+          "name": "Butter Chicken",
+          "price": 37900,
+          "veg": false,
+          "description": "Creamy butter chicken",
+          "image": "https://picsum.photos/200/200?butterchicken",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

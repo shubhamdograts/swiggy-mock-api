@@ -1,0 +1,54 @@
+{
+  "restaurantId": "122",
+  "name": "Udupi Palace",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "South Indian",
+      "items": [
+        {
+          "id": "i2201",
+          "name": "Masala Dosa",
+          "price": 12900,
+          "veg": true,
+          "description": "Crispy dosa with potato filling",
+          "image": "https://picsum.photos/200/200?masaladosa",
+          "inStock": true
+        },
+        {
+          "id": "i2202",
+          "name": "Idli Sambar",
+          "price": 8900,
+          "veg": true,
+          "description": "Steamed rice cakes with sambar",
+          "image": "https://picsum.photos/200/200?idli",
+          "inStock": true
+        },
+        {
+          "id": "i2203",
+          "name": "Vada Sambar",
+          "price": 9900,
+          "veg": true,
+          "description": "Fried lentil donuts with sambar",
+          "image": "https://picsum.photos/200/200?vada",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Beverages",
+      "items": [
+        {
+          "id": "i2204",
+          "name": "Filter Coffee",
+          "price": 5900,
+          "veg": true,
+          "description": "South Indian filter coffee",
+          "image": "https://picsum.photos/200/200?filtercoffee",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}

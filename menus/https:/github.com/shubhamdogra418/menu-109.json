@@ -1,0 +1,54 @@
+{
+  "restaurantId": "109",
+  "name": "Behrouz Biryani",
+  "categories": [
+    {
+      "id": "c1",
+      "title": "Biryani",
+      "items": [
+        {
+          "id": "i901",
+          "name": "Dum Chicken Biryani",
+          "price": 35900,
+          "veg": false,
+          "description": "Royal dum biryani",
+          "image": "https://picsum.photos/200/200?dumbiri",
+          "inStock": true
+        },
+        {
+          "id": "i902",
+          "name": "Subz-e-Biryani",
+          "price": 29900,
+          "veg": true,
+          "description": "Vegetable biryani",
+          "image": "https://picsum.photos/200/200?vegdum",
+          "inStock": true
+        },
+        {
+          "id": "i903",
+          "name": "Royal Paneer Biryani",
+          "price": 32900,
+          "veg": true,
+          "description": "Paneer biryani",
+          "image": "https://picsum.photos/200/200?paneerbiryani",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Kebabs",
+      "items": [
+        {
+          "id": "i904",
+          "name": "Murgh Kebab",
+          "price": 27900,
+          "veg": false,
+          "description": "Chicken kebabs",
+          "image": "https://picsum.photos/200/200?murghkebab",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}
