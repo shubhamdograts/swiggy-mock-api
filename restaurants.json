@@ -299,6 +299,73 @@
       "costForTwo": 400,
       "image": "https://picsum.photos/300/200?random=30",
       "menuApi": "https://run.mocky.io/v3/menu-130"
-    }
+    }.
+    {
+      "id": "131",
+      "name": "Burger Junction",
+      "cuisines": ["Burgers", "Fast Food"],
+      "rating": 4.1,
+      "deliveryTime": "25-30 mins",
+      "costForTwo": 250,
+      "image": "https://picsum.photos/300/200?random=31",
+      "menuApi": "https://run.mocky.io/v3/menu-131"
+    },
+    {
+      "id": "132",
+      "name": "KFC",
+      "cuisines": ["Chicken", "Fast Food"],
+      "rating": 4.3,
+      "deliveryTime": "30-35 mins",
+      "costForTwo": 350,
+      "image": "https://picsum.photos/300/200?random=32",
+      "menuApi": "https://run.mocky.io/v3/menu-132"
+    },
+    {
+      "id": "133",
+      "name": "Subway",
+      "cuisines": ["Healthy", "Sandwich"],
+      "rating": 4.2,
+      "deliveryTime": "20-25 mins",
+      "costForTwo": 300,
+      "image": "https://picsum.photos/300/200?random=33",
+      "menuApi": "https://run.mocky.io/v3/menu-133"
+    },
+    {
+      "id": "134",
+      "name": "Chinese Wok",
+      "cuisines": ["Chinese", "Asian"],
+      "rating": 4.0,
+      "deliveryTime": "30-40 mins",
+      "costForTwo": 280,
+      "image": "https://picsum.photos/300/200?random=34",
+      "menuApi": "https://run.mocky.io/v3/menu-134"
+    },
+    {
+      "id": "135",
+      "name": "Biryani Blues",
+      "cuisines": ["Biryani", "North Indian"],
+      "rating": 4.4,
+      "deliveryTime": "35-40 mins",
+      "costForTwo": 400,
+      "image": "https://picsum.photos/300/200?random=35",
+      "menuApi": "https://run.mocky.io/v3/menu-135"
+    },
+    { "id": "136", "name": "Rolls Mania", "cuisines": ["Rolls"], "rating": 4.1, "deliveryTime": "20-25 mins", "costForTwo": 220, "image": "https://picsum.photos/300/200?random=36", "menuApi": "https://run.mocky.io/v3/menu-136" },
+    { "id": "137", "name": "Wow! Momo", "cuisines": ["Momos"], "rating": 4.3, "deliveryTime": "25-30 mins", "costForTwo": 260, "image": "https://picsum.photos/300/200?random=37", "menuApi": "https://run.mocky.io/v3/menu-137" },
+    { "id": "138", "name": "The Belgian Waffle Co.", "cuisines": ["Desserts"], "rating": 4.5, "deliveryTime": "20-25 mins", "costForTwo": 300, "image": "https://picsum.photos/300/200?random=38", "menuApi": "https://run.mocky.io/v3/menu-138" },
+    { "id": "139", "name": "Faasos", "cuisines": ["Wraps"], "rating": 4.2, "deliveryTime": "25-30 mins", "costForTwo": 280, "image": "https://picsum.photos/300/200?random=39", "menuApi": "https://run.mocky.io/v3/menu-139" },
+    { "id": "140", "name": "Behrouz Biryani", "cuisines": ["Biryani"], "rating": 4.6, "deliveryTime": "35-45 mins", "costForTwo": 450, "image": "https://picsum.photos/300/200?random=40", "menuApi": "https://run.mocky.io/v3/menu-140" },
+
+    { "id": "141", "name": "McDonald's", "cuisines": ["Burgers"], "rating": 4.1, "deliveryTime": "20-25 mins", "costForTwo": 250, "image": "https://picsum.photos/300/200?random=41", "menuApi": "https://run.mocky.io/v3/menu-141" },
+    { "id": "142", "name": "Pizza Express", "cuisines": ["Pizza"], "rating": 4.2, "deliveryTime": "30-35 mins", "costForTwo": 350, "image": "https://picsum.photos/300/200?random=42", "menuApi": "https://run.mocky.io/v3/menu-142" },
+    { "id": "143", "name": "Barbeque Nation", "cuisines": ["BBQ"], "rating": 4.4, "deliveryTime": "40-50 mins", "costForTwo": 600, "image": "https://picsum.photos/300/200?random=43", "menuApi": "https://run.mocky.io/v3/menu-143" },
+    { "id": "144", "name": "Haldiram's", "cuisines": ["Indian", "Sweets"], "rating": 4.3, "deliveryTime": "25-30 mins", "costForTwo": 300, "image": "https://picsum.photos/300/200?random=44", "menuApi": "https://run.mocky.io/v3/menu-144" },
+    { "id": "145", "name": "Natural Ice Cream", "cuisines": ["Ice Cream"], "rating": 4.6, "deliveryTime": "15-20 mins", "costForTwo": 200, "image": "https://picsum.photos/300/200?random=45", "menuApi": "https://run.mocky.io/v3/menu-145" },
+
+    { "id": "146", "name": "Chai Point", "cuisines": ["Beverages"], "rating": 4.0, "deliveryTime": "15-20 mins", "costForTwo": 150, "image": "https://picsum.photos/300/200?random=46", "menuApi": "https://run.mocky.io/v3/menu-146" },
+    { "id": "147", "name": "Cafe Coffee Day", "cuisines": ["Cafe"], "rating": 4.1, "deliveryTime": "20-25 mins", "costForTwo": 300, "image": "https://picsum.photos/300/200?random=47", "menuApi": "https://run.mocky.io/v3/menu-147" },
+    { "id": "148", "name": "Lassi Shop", "cuisines": ["Beverages"], "rating": 4.2, "deliveryTime": "15-20 mins", "costForTwo": 180, "image": "https://picsum.photos/300/200?random=48", "menuApi": "https://run.mocky.io/v3/menu-148" },
+    { "id": "149", "name": "Idli Dosa Corner", "cuisines": ["South Indian"], "rating": 4.4, "deliveryTime": "25-30 mins", "costForTwo": 220, "image": "https://picsum.photos/300/200?random=49", "menuApi": "https://run.mocky.io/v3/menu-149" },
+    { "id": "150", "name": "Punjabi Dhaba", "cuisines": ["North Indian"], "rating": 4.3, "deliveryTime": "35-40 mins", "costForTwo": 320, "image": "https://picsum.photos/300/200?random=50", "menuApi": "https://run.mocky.io/v3/menu-150" }
   ]
 }
