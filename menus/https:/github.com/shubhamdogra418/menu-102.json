@@ -31,7 +31,7 @@
           "veg": false,
           "description": "Classic pepperoni pizza",
           "image": "https://picsum.photos/200/200?pizza5",
-          "inStock": false
+          "inStock": true
         },
         {
           "id": "i204",
