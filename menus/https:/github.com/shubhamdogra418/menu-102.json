@@ -4,6 +4,39 @@
   "categories": [
     {
       "id": "c1",
+      "title": "Recommended",
+      "items": [
+        {
+          "id": "i101",
+          "name": "Veggie Supreme",
+          "price": 24900,
+          "veg": true,
+          "description": "Loaded with crunchy veggies and mozzarella",
+          "image": "https://picsum.photos/200/200?hut1",
+          "inStock": true
+        },
+        {
+          "id": "i102",
+          "name": "Chicken Tikka Pizza",
+          "price": 32900,
+          "veg": false,
+          "description": "Indian-style chicken tikka with onions",
+          "image": "https://picsum.photos/200/200?hut2",
+          "inStock": true
+        },
+        {
+          "id": "i103",
+          "name": "Cheese Burst",
+          "price": 27900,
+          "veg": true,
+          "description": "Molten cheese-filled crust",
+          "image": "https://picsum.photos/200/200?hut3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
       "title": "Pizzas",
       "items": [
         {
@@ -20,7 +53,7 @@
           "name": "Chicken Tikka Pizza",
           "price": 32900,
           "veg": false,
-          "description": "Spicy chicken pizza",
+          "description": "Spicy chicken tikka pizza",
           "image": "https://picsum.photos/200/200?pizza4",
           "inStock": true
         },
@@ -29,7 +62,7 @@
           "name": "Pepperoni Feast",
           "price": 35900,
           "veg": false,
-          "description": "Classic pepperoni pizza",
+          "description": "Classic pepperoni & cheese",
           "image": "https://picsum.photos/200/200?pizza5",
           "inStock": true
         },
@@ -38,7 +71,7 @@
           "name": "Cheese Burst",
           "price": 27900,
           "veg": true,
-          "description": "Extra cheesy pizza",
+          "description": "Extra cheesy delight",
           "image": "https://picsum.photos/200/200?pizza6",
           "inStock": true
         },
@@ -47,7 +80,7 @@
           "name": "BBQ Chicken Pizza",
           "price": 33900,
           "veg": false,
-          "description": "Tangy BBQ chicken pizza",
+          "description": "Smoky BBQ chicken with cheese",
           "image": "https://picsum.photos/200/200?pizza7",
           "inStock": true
         },
@@ -56,8 +89,122 @@
           "name": "Mushroom Delight",
           "price": 25900,
           "veg": true,
-          "description": "Mushroom loaded pizza",
+          "description": "Mushroom-loaded pizza",
           "image": "https://picsum.photos/200/200?pizza8",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "Melts & Pasta",
+      "items": [
+        {
+          "id": "i301",
+          "name": "Creamy Alfredo Pasta",
+          "price": 21900,
+          "veg": true,
+          "description": "White sauce pasta with herbs",
+          "image": "https://picsum.photos/200/200?pasta1",
+          "inStock": true
+        },
+        {
+          "id": "i302",
+          "name": "Chicken Keema Pasta",
+          "price": 24900,
+          "veg": false,
+          "description": "Spicy chicken keema in red sauce",
+          "image": "https://picsum.photos/200/200?pasta2",
+          "inStock": true
+        },
+        {
+          "id": "i303",
+          "name": "Cheesy Veg Melt",
+          "price": 19900,
+          "veg": true,
+          "description": "Baked cheesy veg melt",
+          "image": "https://picsum.photos/200/200?melt1",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "Sides",
+      "items": [
+        {
+          "id": "i401",
+          "name": "Garlic Bread",
+          "price": 12900,
+          "veg": true,
+          "description": "Classic garlic bread",
+          "image": "https://picsum.photos/200/200?side1",
+          "inStock": true
+        },
+        {
+          "id": "i402",
+          "name": "Cheesy Garlic Bread",
+          "price": 15900,
+          "veg": true,
+          "description": "Garlic bread with cheese",
+          "image": "https://picsum.photos/200/200?side2",
+          "inStock": true
+        },
+        {
+          "id": "i403",
+          "name": "Chicken Wings",
+          "price": 24900,
+          "veg": false,
+          "description": "Hot & crispy chicken wings",
+          "image": "https://picsum.photos/200/200?side3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "title": "Desserts",
+      "items": [
+        {
+          "id": "i501",
+          "name": "Chocolate Truffle Cake",
+          "price": 12900,
+          "veg": true,
+          "description": "Rich chocolate truffle slice",
+          "image": "https://picsum.photos/200/200?dessert1",
+          "inStock": true
+        },
+        {
+          "id": "i502",
+          "name": "Choco Lava Cake",
+          "price": 10900,
+          "veg": true,
+          "description": "Warm molten chocolate cake",
+          "image": "https://picsum.photos/200/200?dessert2",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "title": "Beverages",
+      "items": [
+        {
+          "id": "i601",
+          "name": "Pepsi",
+          "price": 6000,
+          "veg": true,
+          "description": "500ml chilled Pepsi",
+          "image": "https://picsum.photos/200/200?drink1",
+          "inStock": true
+        },
+        {
+          "id": "i602",
+          "name": "7Up",
+          "price": 6000,
+          "veg": true,
+          "description": "500ml chilled 7Up",
+          "image": "https://picsum.photos/200/200?drink2",
           "inStock": true
         }
       ]
