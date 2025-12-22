@@ -20,8 +20,173 @@
           "name": "Farmhouse",
           "price": 29900,
           "veg": true,
-          "description": "Loaded with veggies",
+          "description": "Loaded with onion, capsicum, tomato & mushroom",
           "image": "https://picsum.photos/200/200?pizza2",
+          "inStock": true
+        },
+        {
+          "id": "i103",
+          "name": "Peppy Paneer",
+          "price": 32900,
+          "veg": true,
+          "description": "Paneer with capsicum & spicy red paprika",
+          "image": "https://picsum.photos/200/200?pizza3",
+          "inStock": true
+        },
+        {
+          "id": "i104",
+          "name": "Chicken Dominator",
+          "price": 39900,
+          "veg": false,
+          "description": "Loaded with BBQ chicken, grilled chicken & chicken sausage",
+          "image": "https://picsum.photos/200/200?pizza4",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Pizzas",
+      "items": [
+        {
+          "id": "i201",
+          "name": "Deluxe Veggie",
+          "price": 34900,
+          "veg": true,
+          "description": "Veg delight with olives, corn, capsicum & mushrooms",
+          "image": "https://picsum.photos/200/200?pizza5",
+          "inStock": true
+        },
+        {
+          "id": "i202",
+          "name": "Veg Extravaganza",
+          "price": 37900,
+          "veg": true,
+          "description": "Loaded with veggies and extra cheese",
+          "image": "https://picsum.photos/200/200?pizza6",
+          "inStock": true
+        },
+        {
+          "id": "i203",
+          "name": "Pepper Barbecue Chicken",
+          "price": 36900,
+          "veg": false,
+          "description": "Pepper BBQ chicken with cheese",
+          "image": "https://picsum.photos/200/200?pizza7",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "title": "Pizza Mania",
+      "items": [
+        {
+          "id": "i301",
+          "name": "Classic Onion",
+          "price": 10900,
+          "veg": true,
+          "description": "Soft crust pizza topped with onions",
+          "image": "https://picsum.photos/200/200?pizzamania1",
+          "inStock": true
+        },
+        {
+          "id": "i302",
+          "name": "Golden Corn",
+          "price": 11900,
+          "veg": true,
+          "description": "Cheesy pizza with sweet corn",
+          "image": "https://picsum.photos/200/200?pizzamania2",
+          "inStock": true
+        },
+        {
+          "id": "i303",
+          "name": "Chicken Sausage",
+          "price": 14900,
+          "veg": false,
+          "description": "Chicken sausage on a cheesy base",
+          "image": "https://picsum.photos/200/200?pizzamania3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "title": "Sides",
+      "items": [
+        {
+          "id": "i401",
+          "name": "Garlic Breadsticks",
+          "price": 14900,
+          "veg": true,
+          "description": "Baked breadsticks with garlic & butter",
+          "image": "https://picsum.photos/200/200?sides1",
+          "inStock": true
+        },
+        {
+          "id": "i402",
+          "name": "Stuffed Garlic Bread",
+          "price": 18900,
+          "veg": true,
+          "description": "Cheese-stuffed garlic bread",
+          "image": "https://picsum.photos/200/200?sides2",
+          "inStock": true
+        },
+        {
+          "id": "i403",
+          "name": "Chicken Wings",
+          "price": 24900,
+          "veg": false,
+          "description": "Spicy and juicy chicken wings",
+          "image": "https://picsum.photos/200/200?sides3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "title": "Desserts",
+      "items": [
+        {
+          "id": "i501",
+          "name": "Choco Lava Cake",
+          "price": 10900,
+          "veg": true,
+          "description": "Warm chocolate-filled cake",
+          "image": "https://picsum.photos/200/200?dessert1",
+          "inStock": true
+        },
+        {
+          "id": "i502",
+          "name": "Butterscotch Mousse Cake",
+          "price": 12900,
+          "veg": true,
+          "description": "Soft mousse cake with butterscotch flavor",
+          "image": "https://picsum.photos/200/200?dessert2",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "title": "Beverages",
+      "items": [
+        {
+          "id": "i601",
+          "name": "Pepsi",
+          "price": 6000,
+          "veg": true,
+          "description": "500ml chilled Pepsi",
+          "image": "https://picsum.photos/200/200?drink1",
+          "inStock": true
+        },
+        {
+          "id": "i602",
+          "name": "Mirinda",
+          "price": 6000,
+          "veg": true,
+          "description": "500ml Mirinda",
+          "image": "https://picsum.photos/200/200?drink2",
           "inStock": true
         }
       ]
