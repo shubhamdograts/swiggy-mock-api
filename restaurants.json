@@ -564,6 +564,16 @@
       "costForTwo": 220,
       "image": "https://picsum.photos/300/200?random=68",
       "menuApi": "https://run.mocky.io/v3/menu-168"
+    },
+    {
+      "id": "169",
+      "name": "Landour",
+      "cuisines": ["Desserts", "Bakery", "Brew"],
+      "rating": 4.1,
+      "deliveryTime": "20-25 mins",
+      "costForTwo": 280,
+      "image": "https://picsum.photos/300/200?random=69",
+      "menuApi": "https://run.mocky.io/v3/menu-169"
     }
   ]
 }
