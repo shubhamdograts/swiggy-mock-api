@@ -4,10 +4,43 @@
   "categories": [
     {
       "id": "c1",
+      "title": "Recommended",
+      "items": [
+        {
+          "id": "i101",
+          "name": "McAloo Tikki",
+          "price": 5900,
+          "veg": true,
+          "description": "India’s favorite potato patty burger",
+          "image": "https://picsum.photos/200/200?mcdrec1",
+          "inStock": true
+        },
+        {
+          "id": "i102",
+          "name": "McChicken",
+          "price": 14900,
+          "veg": false,
+          "description": "Crispy chicken patty with mayo",
+          "image": "https://picsum.photos/200/200?mcdrec2",
+          "inStock": true
+        },
+        {
+          "id": "i103",
+          "name": "Big Mac",
+          "price": 19900,
+          "veg": false,
+          "description": "Iconic double patty burger with special sauce",
+          "image": "https://picsum.photos/200/200?mcdrec3",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "c2",
       "title": "Burgers",
       "items": [
         {
-          "id": "i401",
+          "id": "i201",
           "name": "Big Mac",
           "price": 19900,
           "veg": false,
@@ -16,7 +49,7 @@
           "inStock": true
         },
         {
-          "id": "i402",
+          "id": "i202",
           "name": "McAloo Tikki",
           "price": 5900,
           "veg": true,
@@ -25,30 +58,71 @@
           "inStock": true
         },
         {
-          "id": "i403",
+          "id": "i203",
           "name": "McChicken",
           "price": 14900,
           "veg": false,
           "description": "Chicken burger",
           "image": "https://picsum.photos/200/200?mcdonalds3",
           "inStock": true
+        },
+        {
+          "id": "i204",
+          "name": "McVeggie",
+          "price": 12900,
+          "veg": true,
+          "description": "Crispy veg patty with lettuce & sauce",
+          "image": "https://picsum.photos/200/200?mcdonalds4",
+          "inStock": true
+        },
+        {
+          "id": "i205",
+          "name": "Chicken Maharaja Mac",
+          "price": 22900,
+          "veg": false,
+          "description": "Indian-style spicy chicken burger",
+          "image": "https://picsum.photos/200/200?mcdonalds5",
+          "inStock": true
         }
       ]
     },
     {
-      "id": "c2",
-      "title": "Happy Meals",
+      "id": "c3",
+      "title": "Wraps & Rolls",
       "items": [
         {
-          "id": "i404",
-          "name": "Chicken Happy Meal",
-          "price": 24900,
+          "id": "i301",
+          "name": "Veg Maharaja Wrap",
+          "price": 16900,
+          "veg": true,
+          "description": "Veg patty wrap with sauces",
+          "image": "https://picsum.photos/200/200?wrap1",
+          "inStock": true
+        },
+        {
+          "id": "i302",
+          "name": "Chicken Kebab Wrap",
+          "price": 18900,
           "veg": false,
-          "description": "Kids meal with toy",
-          "image": "https://picsum.photos/200/200?happymeal1",
+          "description": "Spicy chicken kebab wrap",
+          "image": "https://picsum.photos/200/200?wrap2",
           "inStock": true
         }
       ]
-    }
-  ]
-}
+    },
+    {
+      "id": "c4",
+      "title": "Sides",
+      "items": [
+        {
+          "id": "i401",
+          "name": "French Fries",
+          "price": 9900,
+          "veg": true,
+          "description": "World famous crispy fries",
+          "image": "https://picsum.photos/200/200?fries1",
+          "inStock": true
+        },
+        {
+          "id": "i402",
+          "name": "Veg N
