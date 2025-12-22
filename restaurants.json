@@ -364,6 +364,6 @@
 
     { "id": "146", "name": "Chai Point", "cuisines": ["Beverages"], "rating": 4.0, "deliveryTime": "15-20 mins", "costForTwo": 150, "image": "https://picsum.photos/300/200?random=46", "menuApi": "https://run.mocky.io/v3/menu-146" },
     { "id": "147", "name": "Cafe Coffee Day", "cuisines": ["Cafe"], "rating": 4.1, "deliveryTime": "20-25 mins", "costForTwo": 300, "image": "https://picsum.photos/300/200?random=47", "menuApi": "https://run.mocky.io/v3/menu-147" },
-    { "id": "148", "name": "Lassi Shop", "cuisines": ["Beverages"], "rating": 4.2, "deliveryTime": "15-20 mins", "costForTwo": 180, "image": "https://picsum.photos/300/200?random=48", "menuApi": "https://run.mocky.io/v3/menu-148" },
+    { "id": "148", "name": "Lassi Shop", "cuisines": ["Beverages"], "rating": 4.2, "deliveryTime": "15-20 mins", "costForTwo": 180, "image": "https://picsum.photos/300/200?random=48", "menuApi": "https://run.mocky.io/v3/menu-148" }
   ]
 }
